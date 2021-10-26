@@ -1,9 +1,9 @@
 # Manualidades
-Pagina de manualidades
+Página de manualidades
 
-Nombre del Alumno: Claudia Guadalupe Velasco Garcia 
+Nombre del Alumno: Claudia Guadalupe Velasco García 
 <br/>
-Numero de Control: 18920061
+Número de Control: 18920061
 
 Preview 
 
